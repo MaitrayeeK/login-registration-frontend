@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Created frontend for login and registration page with the user and admin functionality.
+
+Integrated with the login and registration nodejs api.
+
+login and registration node js api https://github.com/MaitrayeeK/node_login_registration_api .
